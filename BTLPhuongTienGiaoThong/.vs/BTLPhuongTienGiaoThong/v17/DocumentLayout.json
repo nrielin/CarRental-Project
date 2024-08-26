@@ -1,0 +1,1073 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\models\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\models\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\models\\tblcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\models\\tblcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\views\\home\\chitietxe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\views\\home\\chitietxe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\models\\hirecarcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\models\\hirecarcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\models\\bookcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\models\\bookcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\models\\productmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\models\\productmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\models\\domainmodels\\domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\models\\domainmodels\\domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\models\\authentication\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\models\\authentication\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\helpers\\extentionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\helpers\\extentionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\views\\shared\\components\\hangxemenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\views\\shared\\components\\hangxemenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\views\\booking\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\views\\booking\\book.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\views\\shared\\partialsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\views\\shared\\partialsp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\areas\\admin\\views\\homeadmin\\themxe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\areas\\admin\\views\\homeadmin\\themxe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\views\\booking\\hiendsbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\views\\booking\\hiendsbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\btlphuongtiengiaothong.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\views\\home\\xetheohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\views\\home\\xetheohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\btlphuongtiengiaothong.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\wwwroot\\img\\logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\wwwroot\\img\\logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\wwwroot\\img\\breadcrumb.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\wwwroot\\img\\breadcrumb.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\wwwroot\\img\\featured\\feature-3.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\wwwroot\\img\\featured\\feature-3.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\wwwroot\\img\\featured\\feature-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\wwwroot\\img\\featured\\feature-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\wwwroot\\img\\categories\\cat-4.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\wwwroot\\img\\categories\\cat-4.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\wwwroot\\img\\banner\\banner-2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\wwwroot\\img\\banner\\banner-2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\wwwroot\\img\\banner\\banner-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\wwwroot\\img\\banner\\banner-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\wwwroot\\img\\cart\\cart-2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\wwwroot\\img\\cart\\cart-2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\wwwroot\\img\\cart\\cart-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\wwwroot\\img\\cart\\cart-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\viewmodels\\homeproductdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\viewmodels\\homeproductdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\viewcomponents\\hangxemenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\viewcomponents\\hangxemenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\views\\shared\\_layoutxe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\views\\shared\\_layoutxe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\repository\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\repository\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\repository\\irole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\repository\\irole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\repository\\ihangxerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\repository\\ihangxerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\repository\\hangxerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\repository\\hangxerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\models\\tblbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\models\\tblbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\models\\tblrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\models\\tblrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\models\\tbluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\models\\tbluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\models\\tblhangxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\models\\tblhangxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Shared\\PartialXe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BTLPhuongTienGiaoThong\\Views\\Shared\\PartialXe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\areas\\admin\\views\\homeadmin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\areas\\admin\\views\\homeadmin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\areas\\admin\\views\\homeadmin\\danhmucxe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\areas\\admin\\views\\homeadmin\\danhmucxe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|c:\\users\\administrator\\desktop\\btl-webnc\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\btlphuongtiengiaothong\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{055602CB-B2FD-4E7F-AC8A-DC4EBAB01E0C}|BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj|solutionrelative:btlphuongtiengiaothong\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Controllers\\BookingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:39:39.588Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Book.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Booking\\Book.cshtml",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Views\\Booking\\Book.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Booking\\Book.cshtml",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Views\\Booking\\Book.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAEkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T09:01:28.515Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChiTietXe.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Home\\ChiTietXe.cshtml",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Views\\Home\\ChiTietXe.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Home\\ChiTietXe.cshtml",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Views\\Home\\ChiTietXe.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACAAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T20:52:39.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TblCar.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Models\\TblCar.cs",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Models\\TblCar.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Models\\TblCar.cs",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Models\\TblCar.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T14:34:08.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwBwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:04:12.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Models\\ProductApiController.cs",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Models\\ProductApiController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Models\\ProductApiController.cs",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Models\\ProductApiController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:09:24.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-02T04:41:21.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T17:58:00.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Home\\ProductDetail.cshtml",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Views\\Home\\ProductDetail.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Home\\ProductDetail.cshtml",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Views\\Home\\ProductDetail.cshtml",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAABYAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T21:36:11.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T09:46:03.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HireCarContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Models\\HireCarContext.cs",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Models\\HireCarContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Models\\HireCarContext.cs",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Models\\HireCarContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T17:22:35.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:12:14.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Models\\ProductModels\\product.cs",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Models\\ProductModels\\product.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Models\\ProductModels\\product.cs",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Models\\ProductModels\\product.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAiwAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:15:12.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Domain.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Models\\DomainModels\\Domain.cs",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Models\\DomainModels\\Domain.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Models\\DomainModels\\Domain.cs",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Models\\DomainModels\\Domain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T14:22:55.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Models\\Authentication\\Authentication.cs",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Models\\Authentication\\Authentication.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Models\\Authentication\\Authentication.cs",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Models\\Authentication\\Authentication.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:37:16.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExtentionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Helpers\\ExtentionHelper.cs",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Helpers\\ExtentionHelper.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Helpers\\ExtentionHelper.cs",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Helpers\\ExtentionHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:32:16.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookCar.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Models\\BookCar.cs",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Models\\BookCar.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Models\\BookCar.cs",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Models\\BookCar.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAwwAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T04:35:26.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Shared\\Components\\HangXeMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Views\\Shared\\Components\\HangXeMenu\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Shared\\Components\\HangXeMenu\\Default.cshtml",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Views\\Shared\\Components\\HangXeMenu\\Default.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T19:37:42.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAUwFgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:05:27.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\appsettings.json",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\appsettings.json",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T18:59:07.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PartialSP.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Shared\\PartialSP.cshtml",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Views\\Shared\\PartialSP.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Shared\\PartialSP.cshtml",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Views\\Shared\\PartialSP.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T08:44:31.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ThemXe.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Areas\\Admin\\Views\\HomeAdmin\\ThemXe.cshtml",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Areas\\Admin\\Views\\HomeAdmin\\ThemXe.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Areas\\Admin\\Views\\HomeAdmin\\ThemXe.cshtml",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Areas\\Admin\\Views\\HomeAdmin\\ThemXe.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T04:22:40.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwBcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T21:49:29.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Booking\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Views\\Booking\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Booking\\Index.cshtml",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Views\\Booking\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T06:57:17.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "hiendsBooking.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Booking\\hiendsBooking.cshtml",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Views\\Booking\\hiendsBooking.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Booking\\hiendsBooking.cshtml",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Views\\Booking\\hiendsBooking.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T08:57:26.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T06:36:09.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T08:20:56.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BTLPhuongTienGiaoThong",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-02T03:47:36.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "XeTheoHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Home\\XeTheoHang.cshtml",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Views\\Home\\XeTheoHang.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Home\\XeTheoHang.cshtml",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Views\\Home\\XeTheoHang.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T20:24:24.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BTLPhuongTienGiaoThong.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-31T19:29:49.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T07:00:58.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "logo.png -  [English (United States)] - PNG [119x50, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\wwwroot\\img\\logo.png",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\wwwroot\\img\\logo.png",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\wwwroot\\img\\logo.png -  [English (United States)] - PNG [119x50, 32 bit, PNG]",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\wwwroot\\img\\logo.png -  [English (United States)] - PNG [119x50, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-02T03:36:29.69Z",
+              "EditorCaption": " -  [English (United States)] - PNG [119x50, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "breadcrumb.jpg -  [English (United States)] - Bitmap [1920x150, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\wwwroot\\img\\breadcrumb.jpg",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\wwwroot\\img\\breadcrumb.jpg",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\wwwroot\\img\\breadcrumb.jpg -  [English (United States)] - Bitmap [1920x150, 24 bit, JPG]",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\wwwroot\\img\\breadcrumb.jpg -  [English (United States)] - Bitmap [1920x150, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-02T03:36:28.371Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [1920x150, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "feature-3.jpg -  [English (United States)] - Bitmap [270x270, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\wwwroot\\img\\featured\\feature-3.jpg",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\wwwroot\\img\\featured\\feature-3.jpg",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\wwwroot\\img\\featured\\feature-3.jpg -  [English (United States)] - Bitmap [270x270, 24 bit, JPG]",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\wwwroot\\img\\featured\\feature-3.jpg -  [English (United States)] - Bitmap [270x270, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-02T03:36:26.632Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [270x270, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "feature-1.jpg -  [English (United States)] - Bitmap [270x270, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\wwwroot\\img\\featured\\feature-1.jpg",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\wwwroot\\img\\featured\\feature-1.jpg",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\wwwroot\\img\\featured\\feature-1.jpg -  [English (United States)] - Bitmap [270x270, 24 bit, JPG]",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\wwwroot\\img\\featured\\feature-1.jpg -  [English (United States)] - Bitmap [270x270, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-02T03:36:24.631Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [270x270, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "cat-4.jpg -  [English (United States)] - Bitmap [270x270, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\wwwroot\\img\\categories\\cat-4.jpg",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\wwwroot\\img\\categories\\cat-4.jpg",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\wwwroot\\img\\categories\\cat-4.jpg -  [English (United States)] - Bitmap [270x270, 24 bit, JPG]",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\wwwroot\\img\\categories\\cat-4.jpg -  [English (United States)] - Bitmap [270x270, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-02T03:36:23.476Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [270x270, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "banner-2.jpg -  [English (United States)] - Bitmap [570x270, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\wwwroot\\img\\banner\\banner-2.jpg",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\wwwroot\\img\\banner\\banner-2.jpg",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\wwwroot\\img\\banner\\banner-2.jpg -  [English (United States)] - Bitmap [570x270, 24 bit, JPG]",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\wwwroot\\img\\banner\\banner-2.jpg -  [English (United States)] - Bitmap [570x270, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-02T03:36:22.052Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [570x270, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "banner-1.jpg -  [English (United States)] - Bitmap [570x270, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\wwwroot\\img\\banner\\banner-1.jpg",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\wwwroot\\img\\banner\\banner-1.jpg",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\wwwroot\\img\\banner\\banner-1.jpg -  [English (United States)] - Bitmap [570x270, 24 bit, JPG]",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\wwwroot\\img\\banner\\banner-1.jpg -  [English (United States)] - Bitmap [570x270, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-02T03:36:20.386Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [570x270, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "cart-2.jpg -  [English (United States)] - Bitmap [100x100, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\wwwroot\\img\\cart\\cart-2.jpg",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\wwwroot\\img\\cart\\cart-2.jpg",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\wwwroot\\img\\cart\\cart-2.jpg -  [English (United States)] - Bitmap [100x100, 24 bit, JPG]",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\wwwroot\\img\\cart\\cart-2.jpg -  [English (United States)] - Bitmap [100x100, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-02T03:36:19.928Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [100x100, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "cart-1.jpg -  [English (United States)] - Bitmap [101x100, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\wwwroot\\img\\cart\\cart-1.jpg",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\wwwroot\\img\\cart\\cart-1.jpg",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\wwwroot\\img\\cart\\cart-1.jpg -  [English (United States)] - Bitmap [101x100, 24 bit, JPG]",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\wwwroot\\img\\cart\\cart-1.jpg -  [English (United States)] - Bitmap [101x100, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-02T03:36:17.647Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [101x100, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-01T10:56:28.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "HomeProductDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\ViewModels\\HomeProductDetailViewModel.cs",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\ViewModels\\HomeProductDetailViewModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\ViewModels\\HomeProductDetailViewModel.cs",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\ViewModels\\HomeProductDetailViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T21:29:12.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "HangXeMenuViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\ViewComponents\\HangXeMenuViewComponent.cs",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\ViewComponents\\HangXeMenuViewComponent.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\ViewComponents\\HangXeMenuViewComponent.cs",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\ViewComponents\\HangXeMenuViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:30:33.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAN0CAAAAAAAAAAAjwPACAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-01T16:33:16.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_LayoutXe.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Shared\\_LayoutXe.cshtml",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Views\\Shared\\_LayoutXe.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Shared\\_LayoutXe.cshtml",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Views\\Shared\\_LayoutXe.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABABAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T14:44:16.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Repository\\Role.cs",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Repository\\Role.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Repository\\Role.cs",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Repository\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T14:55:50.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IHangXeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Repository\\IHangXeRepository.cs",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Repository\\IHangXeRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Repository\\IHangXeRepository.cs",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Repository\\IHangXeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:35:42.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IRole.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Repository\\IRole.cs",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Repository\\IRole.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Repository\\IRole.cs",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Repository\\IRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T14:50:53.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "HangXeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Repository\\HangXeRepository.cs",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Repository\\HangXeRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Repository\\HangXeRepository.cs",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Repository\\HangXeRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:19:02.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "TblBooking.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Models\\TblBooking.cs",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Models\\TblBooking.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Models\\TblBooking.cs",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Models\\TblBooking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T08:51:16.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "TblRole.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Models\\TblRole.cs",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Models\\TblRole.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Models\\TblRole.cs",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Models\\TblRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:40:00.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "TblUser.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Models\\TblUser.cs",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Models\\TblUser.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Models\\TblUser.cs",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Models\\TblUser.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:14:02.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T08:22:06.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAAgBAAAAAAAAAAAAABYBAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T21:42:25.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "TblHangXe.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Models\\TblHangXe.cs",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Models\\TblHangXe.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Models\\TblHangXe.cs",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Models\\TblHangXe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T13:39:58.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Program.cs",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Program.cs",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:42:23.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "PartialXe.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Shared\\PartialXe.cshtml",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Views\\Shared\\PartialXe.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Shared\\PartialXe.cshtml",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Views\\Shared\\PartialXe.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T08:39:01.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T08:22:07.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Login\\Register.cshtml",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Views\\Login\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Views\\Login\\Register.cshtml",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Views\\Login\\Register.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAE8AAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T07:51:30.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DanhMucXe.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucXe.cshtml",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucXe.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucXe.cshtml",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucXe.cshtml",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAFgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T21:58:40.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Areas\\Admin\\Views\\HomeAdmin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Areas\\Admin\\Views\\HomeAdmin\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Areas\\Admin\\Views\\HomeAdmin\\Edit.cshtml",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Areas\\Admin\\Views\\HomeAdmin\\Edit.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T05:34:29.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTLPhuongTienGiaoThong\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BTL-WEBNC\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\BTLPhuongTienGiaoThong\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeToolTip": "BTLPhuongTienGiaoThong\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T21:51:21.963Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

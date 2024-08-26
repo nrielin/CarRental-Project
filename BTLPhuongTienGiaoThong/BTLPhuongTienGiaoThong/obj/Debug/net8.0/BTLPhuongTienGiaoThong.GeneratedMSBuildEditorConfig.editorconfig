@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BTLPhuongTienGiaoThong
+build_property.RootNamespace = BTLPhuongTienGiaoThong
+build_property.ProjectDir = C:\Users\Administrator\Desktop\BTL-WEBNC\BTLPhuongTienGiaoThong\BTLPhuongTienGiaoThong\BTLPhuongTienGiaoThong\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Administrator\Desktop\BTL-WEBNC\BTLPhuongTienGiaoThong\BTLPhuongTienGiaoThong\BTLPhuongTienGiaoThong
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Administrator/Desktop/BTL-WEBNC/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/Areas/Admin/Views/HomeAdmin/DanhMucXe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERhbmhNdWNYZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/BTL-WEBNC/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/Areas/Admin/Views/HomeAdmin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/BTL-WEBNC/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/Areas/Admin/Views/HomeAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/BTL-WEBNC/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/Areas/Admin/Views/HomeAdmin/ThemXe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1YZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/BTL-WEBNC/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/BTL-WEBNC/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/Views/Booking/Book.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xCb29rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/BTL-WEBNC/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/Views/Booking/hiendsBooking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xoaWVuZHNCb29raW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/BTL-WEBNC/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/Views/Booking/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/BTL-WEBNC/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/Views/Home/ChiTietXe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaGlUaWV0WGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/BTL-WEBNC/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/BTL-WEBNC/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/BTL-WEBNC/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/Views/Home/ProductDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0RGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/BTL-WEBNC/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/Views/Home/XeTheoHang.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxYZVRoZW9IYW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/BTL-WEBNC/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/BTL-WEBNC/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/Views/Login/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/BTL-WEBNC/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/Views/Shared/Components/HangXeMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGFuZ1hlTWVudVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/BTL-WEBNC/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/BTL-WEBNC/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/Views/Shared/PartialSP.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxTUC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/BTL-WEBNC/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/Views/Shared/_LayoutXe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRYZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/BTL-WEBNC/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/BTL-WEBNC/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/BTL-WEBNC/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/Desktop/BTL-WEBNC/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/BTLPhuongTienGiaoThong/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-yiv0szgmvv

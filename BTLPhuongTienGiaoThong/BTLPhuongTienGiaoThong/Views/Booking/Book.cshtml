@@ -1,0 +1,91 @@
+﻿@model BTLPhuongTienGiaoThong.Models.TblBooking
+
+@{
+    ViewData["Title"] = "Book";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+}
+<h4>Dat Thue Xe</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-action="Book">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="form-group">
+                <label asp-for="CarBookingId" class="control-label"></label>
+                <input asp-for="CarBookingId" class="form-control" />
+                <span asp-validation-for="CarBookingId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookingDate" class="control-label"></label>
+                <input asp-for="BookingDate" class="form-control" />
+                <span asp-validation-for="BookingDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RentalStartDate" class="control-label"></label>
+                <input asp-for="RentalStartDate" class="form-control" />
+                <span asp-validation-for="RentalStartDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RentalEndDate" class="control-label"></label>
+                <input asp-for="RentalEndDate" class="form-control" />
+                <span asp-validation-for="RentalEndDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotalCost" class="control-label"></label>
+                <input asp-for="TotalCost" class="form-control" />
+                <span asp-validation-for="TotalCost" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StatusCar" class="control-label"></label>
+                <input asp-for="StatusCar" class="form-control" />
+                <span asp-validation-for="StatusCar" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" asp-controller="Home">Back to List</a>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            // Attach event listeners to the input fields
+            $('#VehicleCode, #RentalStartDate, #RentalEndDate').on('change', function () {
+                calculateTotalCost();
+            });
+        });
+
+        function calculateTotalCost() {
+            // Get the vehicle code, rental start and end dates
+            var vehicleCode = $('#CarBookingId').val();
+            var startDate = $('#RentalStartDate').val();
+            var endDate = $('#RentalEndDate').val();
+
+            // Make an AJAX call to the server to calculate the total cost
+            $.ajax({
+                type: 'POST',
+                url: '@Url.Action("CalculateTotalCost", "Booking")',
+                data: { vehicleCode: vehicleCode, startDate: startDate, endDate: endDate },
+                success: function (result) {
+                    // Update the TotalCost input field
+                    if (result <= 0) {
+                        alert('Ngày kết thúc phải lớn hơn ngày bắt đầu');
+                        $('#TotalCost').val(0);
+                        return;
+                    }
+                    $('#TotalCost').val(result);
+                },
+                error: function (xhr, status, error) {
+                    console.error('Error calculating total cost:', error);
+                }
+            });
+        }
+    </script>
+}

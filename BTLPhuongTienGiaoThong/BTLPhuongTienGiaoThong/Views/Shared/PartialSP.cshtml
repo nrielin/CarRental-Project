@@ -1,0 +1,16 @@
+﻿@model TblCar
+<div class="col-lg-3 col-md-4 col-sm-6 mix oranges fresh-meat">
+    <div class="featured__item">
+        <div class="featured__item__pic set-bg" data-setbg="@Url.Content("~/listcar/"+@Model.ImageUrl)">
+            <ul class="featured__item__pic__hover">
+                <li><button type="submit" class="ajax-add-to-cart" data-id="@Model.CarMake"><i class="fa fa-heart"></i></button></li>
+                <li><a href="#"><i class="fa fa-retweet"></i></a></li>
+                <li><a a asp-action="Book" asp-controller="Booking" asp-route-id="@Model.CarId"><i class="fa fa-shopping-cart"></i></a></li>
+            </ul>
+        </div>
+        <div class="featured__item__text">
+            <h6><a asp-action="ChitietXe" asp-controller="Home" asp-route-CarID="@Model.CarId">@Model.CarModel</a></h6>
+            <h5> @Model.PricePerDay/1 ngày</h5>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,98 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using BTLPhuongTienGiaoThong.Models
+@{
+    ViewData["Title"] = "DanhMucXe";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+@model X.PagedList.IPagedList<TblCar>
+@using X.PagedList.Mvc.Core;
+<h1>Danh Mục Xe</h1>
+<p>
+    <a asp-action="ThemXe">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Mã xe
+            </th>
+            <th>
+                Mã Hãng Xe
+            </th>
+            <th>
+                Tên Xe
+            </th>
+            <th>
+                Năm Sản Xuất
+            </th>
+            <th>
+                Màu Xe
+            </th>
+            <th>
+                Gía thuê
+            </th>
+            <th>
+                Xếp hạnh
+            </th>
+            <th>
+                vhh
+            </th>
+            <th>
+                Số chỗ ngồi
+            </th>
+            <th>
+                Chế độ
+            </th>
+            <th>
+                Nhiên liệu
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CarId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CarMake)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CarModel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.YearProduction)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Color)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PricePerDay)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Rating)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LicensePlate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Seats)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Transmission)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FuelType)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {id=item.CarId}) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new {id=item.CarId})
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+    @Html.PagedListPager(Model,page=>Url.Action("danhmucxe",new {page=page}))
+</div>
